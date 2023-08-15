@@ -1,3 +1,6 @@
+# routing-modular-lazy-angular
+Modular programming, lazy loading and routing with Angular
+
 # MyStoreRouter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
