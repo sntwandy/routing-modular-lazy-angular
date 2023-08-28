@@ -3,6 +3,10 @@
 @import url(./styles/reset.scss);
 @import 'swiper/scss';
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
   font-family: 'Quicksand', sans-serif;
 }
